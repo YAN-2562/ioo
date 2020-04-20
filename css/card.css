@@ -1,0 +1,37 @@
+.card {
+    width: 300px;
+    height: 500px;
+    box-shadow: 0 10px 5px rgba(0, 0, 0, 0.5);
+    padding: 0px;
+    border-radius: 5px;
+    margin: 20px auto;
+    padding: 0px;
+    overflow: hidden;
+    border: none;
+}
+
+.card-haed {
+    width: 100%;
+    overflow: hidden;
+    margin: 0;
+}
+
+.card-body {
+    padding: 10px 20px;
+
+}
+
+h3 {
+    color: salmon;
+}
+
+.button {
+    height: 40px;
+    width: 100px;
+    background-color: sandybrown;
+    text-decoration: none;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
